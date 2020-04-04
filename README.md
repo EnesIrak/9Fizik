@@ -9,7 +9,9 @@ Enes Irak 9-D 30
  * *a tablespoon of butter*
  * *a tablespoon of olive oil*
  
-  First,crack 4 eggs into a bowl.Secondly,add salt and black pepper to the bowl.And mix them well.Next,heat the pan and add the oils to the pan.After that,put the mixture to the pan.Cook the omelette for **1-2** minutes.And serve it hot!Bon Apetit!
+  First,crack 4 eggs into a bowl.Secondly,add salt and black pepper to the bowl.And mix them well.Next,heat the pan and add the oils to the pan.After that,put the mixture to the pan.Cook the omelette for **1-2** minutes.And serve it hot!Bon Apetit![ 
+  
+  ![omelette](https://cdn.yemek.com/mncrop/940/625/uploads/2015/05/omlet-yemekcom.jpg)
 
 ## About it's calorie
  Omelette's 100g got ***184 kcal***.It's much for an omelette but healty for other meals we eat like *hamburger,fries,sausages...*
