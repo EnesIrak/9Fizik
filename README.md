@@ -14,7 +14,7 @@ Enes Irak 9-D 30
   ![omelette](https://cdn.yemek.com/mncrop/940/625/uploads/2015/05/omlet-yemekcom.jpg)
 
 ## About it's calorie
- Omelette's 100g got ***184 kcal***.One egg (medium size) got ***77*** calories.But this omelette got averagely **200-250 gr**.It's much for an omelette but healty for other meals we eat like *hamburger,fries,sausages...*
+ Omelette's 100g got ***184 kcal***.One egg (medium size) got ***77*** calories.But this omelette got averagely **200-250 gr**.That means one portion of omelette = **414**caloriesIt's much for an omelette but healty for other meals we eat like *hamburger,fries,sausages...*
  
  ### Ailem ve kitle-boy indeksi
   * Babam:29.024
