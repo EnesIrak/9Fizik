@@ -4,11 +4,11 @@ Enes Irak 9-D 30
 # Omlet Tarifi
  Bugün size nasıl **omlet** yapılır,onu öğreteceğim.
 -  İçindekiler:
- * *4 yumurta*
- * * yarım çay kaşığı tuz *
- * * yarım çay kaşığı karabiber *
- * * bir çorba kaşığı tereyağı *
- * *Bir yemek kaşığı zeytinyağı*
+ * **4 yumurta**
+ * **yarım çay kaşığı tuz**
+ * **yarım çay kaşığı karabiber**
+ * **bir çorba kaşığı tereyağı**
+ * **Bir yemek kaşığı zeytinyağı**
  
   İlk olarak, bir kaseye 4 yumurta kırın.İkinci olarak, kaseye tuz ve karabiber ekleyin.Ve iyice karıştırın.Sonra, tavayı ısıtın ve yağları tavaya ekleyin. Bundan sonra karışımı tavaya koyun. ** 1-2 ** dakika omleti pişirin.Ve sıcak servis yapın! Bon Apetit! Kolay bir kahvaltı yemeği, bu yüzden herkes bu tarifi deneyebilir.Kendine inanıyorum!
 
@@ -20,11 +20,11 @@ Enes Irak 9-D 30
 # Omelette Recipe
  Today I'm going to teach you how to make an **omelette**.Let's begin!
 -  The Ingredients:
- * *4 eggs*
- * *half a teaspoon of salt*
- * *half a teaspoon of black pepper*
- * *a tablespoon of butter*
- * *a tablespoon of olive oil*
+ * **4 eggs**
+ * **half a teaspoon of salt**
+ * **half a teaspoon of black pepper**
+ * **a tablespoon of butter**
+ * **a tablespoon of olive oil**
  
   First,crack 4 eggs into a bowl.Secondly,add salt and black pepper to the bowl.And mix them well.Next,heat the pan and add the oils to the pan.After that,put the mixture to the pan.Cook the omelette for **1-2** minutes.And serve it hot!Bon Apetit!It is an easy breakfast meal,so everybody can try this recipe.I believe myself!
   
