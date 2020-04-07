@@ -1,5 +1,22 @@
 # 9Fizik
 Enes Irak 9-D 30
+
+# Omlet Tarifi
+ Bugün size nasıl **omlet** yapılır,onu öğreteceğim.
+-  İçindekiler:
+ * *4 yumurta*
+ * * yarım çay kaşığı tuz *
+ * * yarım çay kaşığı karabiber *
+ * * bir çorba kaşığı tereyağı *
+ * *Bir yemek kaşığı zeytinyağı*
+ 
+  İlk olarak, bir kaseye 4 yumurta kırın.İkinci olarak, kaseye tuz ve karabiber ekleyin.Ve iyice karıştırın.Sonra, tavayı ısıtın ve yağları tavaya ekleyin. Bundan sonra karışımı tavaya koyun. ** 1-2 ** dakika omleti pişirin.Ve sıcak servis yapın! Bon Apetit! Kolay bir kahvaltı yemeği, bu yüzden herkes bu tarifi deneyebilir.Kendine inanıyorum!
+
+
+## Kalorisi hakkında
+ Omletin 100g'ında ***184 kcal*** bulunuyor, bir yumurta ise (orta boy) ***77*** kalori.Ancak bu omlet ortalama ** 200-250 gr ** oluyor.Bu da demek ki  **414 ** kalori: Omlet için çok ama hamburger, patates kızartması, sosis gibi yediğimiz diğer yemekler için sağlıklı ... 
+ 
+ 
 # Omelette Recipe
  Today I'm going to teach you how to make an **omelette**.Let's begin!
 -  The Ingredients:
