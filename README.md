@@ -14,7 +14,7 @@ Enes Irak 9-D 30
 
 
 ## Kalorisi hakkında
- Omletin 100g'ında ***184 kcal*** bulunuyor, bir yumurta ise (orta boy) ***77*** kalori.Ancak bu omlet ortalama ** 200-250 gr ** oluyor.Bu da demek ki  **414 ** kalori: Omlet için çok ama hamburger, patates kızartması, sosis gibi yediğimiz diğer yemekler için sağlıklı ... 
+ Omletin 100g'ında ***184 kcal*** bulunuyor, bir yumurta ise (orta boy) ***77*** kalori.Ancak bu omlet ortalama **200-250 gr** oluyor.Bu da demek ki  **414 ** kalori: Omlet için çok ama hamburger, patates kızartması, sosis gibi yediğimiz diğer yemekler için sağlıklı ... 
  
  
 # Omelette Recipe
