@@ -38,4 +38,4 @@ Enes Irak 9-D 30
   * Annem:26.84
   * Ben:29.075
 #### Fizik Ödevi 3.Hafta
-    ![sheets](https://docs.google.com/spreadsheets/d/17s8bFC6hSPqt0CY9oN9wMs-vNhq4T2c7UM-rJPIQBNc/edit?usp=sharing)
+    [link]!(https://docs.google.com/spreadsheets/d/17s8bFC6hSPqt0CY9oN9wMs-vNhq4T2c7UM-rJPIQBNc/edit?usp=sharing)
