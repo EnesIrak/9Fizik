@@ -39,7 +39,7 @@ Enes Irak 9-D 30
   * Ben:29.075
 # Fizik Ödevi 3.Hafta
   ## Bölüm 1 
-  Bulduğum eğim:1,66
+  Bulduğum eğim:21,128
   
    Sheets üzerinden yaptığım ödev için[bu linke tıklayın](https://docs.google.com/spreadsheets/d/1izGF9VI1UZ_PeKlT5ariJY-bqBifTVrgAzF-e3ysCVY/edit?usp=sharing)
   
