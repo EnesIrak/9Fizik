@@ -38,6 +38,7 @@ Enes Irak 9-D 30
   * Annem:26.84
   * Ben:29.075
 #### Fizik Ödevi 3.Hafta
-   [bu linke tıklayın](https://docs.google.com/spreadsheets/d/1izGF9VI1UZ_PeKlT5ariJY-bqBifTVrgAzF-e3ysCVY/edit?usp=sharing)
-   [bu linke tıklayın](https://hizliresim.com/cJ0tna)
-   [bu linke tıklayın](https://hizliresim.com/W0tnDT)
+   Sheets üzerinden yaptığım ödev için[bu linke tıklayın](https://docs.google.com/spreadsheets/d/1izGF9VI1UZ_PeKlT5ariJY-bqBifTVrgAzF-e3ysCVY/edit?usp=sharing)
+  
+   Hooke's Law adlı videodan defterime yaptığım çizim için[bu linke tıklayın](https://hizliresim.com/cJ0tna)
+   Uygulanan kuvvet-uzama videosu için [bu linke tıklayın](https://hizliresim.com/W0tnDT)
