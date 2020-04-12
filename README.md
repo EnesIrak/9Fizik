@@ -37,9 +37,12 @@ Enes Irak 9-D 30
   * Babam:29.024
   * Annem:26.84
   * Ben:29.075
-#### Fizik Ödevi 3.Hafta
+# Fizik Ödevi 3.Hafta
+  ## Bölüm 1 
+  Bulduğum eğim:1,66
+  
    Sheets üzerinden yaptığım ödev için[bu linke tıklayın](https://docs.google.com/spreadsheets/d/1izGF9VI1UZ_PeKlT5ariJY-bqBifTVrgAzF-e3ysCVY/edit?usp=sharing)
   
    Hooke's Law adlı videodan defterime yaptığım çizim için[bu linke tıklayın](https://hizliresim.com/cJ0tna)
    
-   Uygulanan kuvvet-uzama videosu için [bu linke tıklayın](https://hizliresim.com/W0tnDT)
+   Uygulanan kuvvet-uzama videosu içindeki değerlerin defterimdeki kopyası için [bu linke tıklayın](https://hizliresim.com/W0tnDT)
